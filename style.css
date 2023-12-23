@@ -1,0 +1,54 @@
+body{
+    background-color: #E7FFFF;
+    font-family: sans-serif
+}
+header{
+    background-color: #358888;
+}
+header img{
+    width: 200px
+}
+.lumine{
+    width: 180px
+}
+.lumine1{
+    color: rgb(142, 142, 0)
+}
+.aether{
+    width: 180px
+}
+.aether1{
+    color: rgb(178, 163, 0)
+}
+.amber{
+    width: 220px;
+}
+.amber1{
+    color: rgb(193, 1, 1)
+}
+.lisa{
+    width: 200px
+}
+.lisa1{
+    color: rgb(115, 58, 115)
+}
+.kaeya{
+    width: 250px
+}
+.kaeya1{
+    color: rgb(0, 141, 202)
+}
+h1{
+    text-align: center
+}
+main h1{
+    font-family: monospace
+}
+footer{
+    
+    background-color: #025F5F;
+}
+footer a{
+    color: rgb(164, 255, 255);
+    text-decoration: none
+}
